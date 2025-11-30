@@ -1,0 +1,13 @@
+{
+  "network": "testnet",
+  "module": "cosmic_pool::cosmic_pool",
+  "pool_address": "0x0982e470b961dbb4ac28142a0fc7ebcac1430d2941882aefd7b628902ec5e910",
+  "admin": "0x0982e470b961dbb4ac28142a0fc7ebcac1430d2941882aefd7b628902ec5e910",
+  "withdrawal_amount": "0.00001 APT",
+  "deployed_at": "2025-11-30",
+  "functions": {
+    "sync_commitment": "0x0982e470b961dbb4ac28142a0fc7ebcac1430d2941882aefd7b628902ec5e910::cosmic_pool::sync_commitment",
+    "withdraw": "0x0982e470b961dbb4ac28142a0fc7ebcac1430d2941882aefd7b628902ec5e910::cosmic_pool::withdraw",
+    "has_commitment": "0x0982e470b961dbb4ac28142a0fc7ebcac1430d2941882aefd7b628902ec5e910::cosmic_pool::has_commitment"
+  }
+}

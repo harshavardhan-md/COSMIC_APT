@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Environment
+.env
+.env.example
+**/.env
+.env.local
+.env.production
+bridge/node_modules
+# Build outputs
+build/
+dist/
+**/build/
+**/dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Aptos
+.aptos/
+**/.aptos/
+
+# Hardhat
+cache/
+artifacts/
+**/cache/
+**/artifacts/
+
+# Test files
+coverage/
+.nyc_output/
+
+# Temporary
+*.tmp
+*.temp

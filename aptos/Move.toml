@@ -1,0 +1,16 @@
+[package]
+name = "cosmic_pool"
+version = "1.0.0"
+authors = []
+
+[addresses]
+cosmic_pool = "0x0982e470b961dbb4ac28142a0fc7ebcac1430d2941882aefd7b628902ec5e910"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]

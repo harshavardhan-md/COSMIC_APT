@@ -1,0 +1,8 @@
+{
+  "network": "sepolia",
+  "contract": "CosmicPool",
+  "address": "0x352D7b31490db844DcCf71838866F612Ee7151Be",
+  "deployer": "0x0487D5582d377A4BA43123d0229EE3406050b1C2",
+  "timestamp": "2025-11-29T19:04:16.383Z",
+  "depositAmount": "0.0001 ETH"
+}
